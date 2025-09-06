@@ -23,6 +23,7 @@ AI Tools Exploration
 ### GenSpark AI
  #### What I Explored:
      -- Used GenSpark’s AI Copilot to search for top-rated YouTube videos on artificial intelligence
+     -- Used GenSpark’s AI Copilot to generate a custom logo concept for a joyful, vocal-based band
 
 
 
