@@ -12,7 +12,8 @@ Hi! I'm Santoshi Vanditha , a Computer Science student exploring how AI tools ca
 
 | Tool        | Screenshot | What I Tried |
 |-------------|------------|--------------|
-| Merlin AI   | ![Merlin Screenshot](link) | Summarized a 10-min YouTube tutorial |
+| Merlin AI   | https://github.com/Vanditha-04/AI-Tools-Exploration/blob/main/merlin_1.png
+ | Summarized a 10-min YouTube tutorial |
 | Claude.ai   | ![Claude Screenshot](link) | Built a mini chatbot with personality |
 | NotebookLM  | ![Notebook Screenshot](link) | Generated study guide from class notes |
 | Julius.ai   | ![Julius Screenshot](link) | Analyzed sales data from a CSV file |
